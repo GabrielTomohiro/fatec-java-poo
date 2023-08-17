@@ -10,7 +10,7 @@ public class Banco {
         Cliente cli2 = new Cliente("João da Silva");
 
         System.out.println(cli);
-        
+        System.out.println("teste");
      
 //        System.out.println("nome = " + cli2.nome +"\ncpf = " + cli2.cpf);;
     }
